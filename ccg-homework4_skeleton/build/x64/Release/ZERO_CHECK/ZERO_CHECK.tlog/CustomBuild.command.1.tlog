@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\HW 4\CCG-HOMEWORK4_SKELETON\BUILD\CMAKEFILES\D97670E638F732177A94A04422AE6E7C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 4/ccg-homework4_skeleton" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 4/ccg-homework4_skeleton/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 4/ccg-homework4_skeleton/build/CCGHomework.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 4\ccg-homework4_skeleton\build\CMakeFiles\d97670e638f732177a94a04422ae6e7c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EDDF6EC5-76B7-3406-8FE1-F62AC2D5AA50}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

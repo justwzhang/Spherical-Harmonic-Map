@@ -1,0 +1,1 @@
+SphericalHarmonicMap.exe bimba.m
